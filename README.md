@@ -1,5 +1,5 @@
 # Academy di Leonardo Pinna
-Repository ufficiale dell'[Academy di Leonardo Pinna](https://academy.leonardopinna.com), dove sono raccolti i problemi rilevati dagli utenti assieme ai suggerimenti di miglioramento. Se hai trovato un bug o un problema all'interno dell'Academy, oppure vuoi suggerire un miglioramento, puoi farlo [creando una nuova Issue](https://github.com/Money-Goals-SRL/Academy-Leonardo-Pinna/issues/new/choose) in questa repository
+Repository ufficiale dell'[Academy di Leonardo Pinna](https://academy.leonardopinna.com), dove sono raccolti i problemi rilevati dagli utenti assieme ai suggerimenti di miglioramento. Se hai trovato un bug o un problema all'interno dell'Academy, oppure vuoi suggerire un miglioramento, puoi farlo [creando una nuova Issue](https://github.com/Money-Goals-SRL/Academy-Leonardo-Pinna/issues/new/choose) in questa repository (è necessario avere un account GitHub per inserire una segnalazione).
 
 ## Cos'è l'Academy
 L'Academy di [Leonardo Pinna](https://youtube.com/c/leonardopinna) è un portale attraverso il quale puoi formarti sulla finanza personale e sul mondo degli investimenti utilizzando gli strumenti messi a disposizione da esperti!
